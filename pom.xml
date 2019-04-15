@@ -166,6 +166,7 @@ LICENSE file.
     <module>blizzard</module>
     <module>blizzard-binding</module>
     <module>blizzard</module>
+    <module>blizzard</module>
     <!--<module>voldemort</module>-->
   </modules>
 
