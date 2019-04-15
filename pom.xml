@@ -163,6 +163,9 @@ LICENSE file.
     <module>solr6</module>
     <module>tarantool</module>
     <module>blizzard</module>
+    <module>blizzard</module>
+    <module>blizzard-binding</module>
+    <module>blizzard</module>
     <!--<module>voldemort</module>-->
   </modules>
 
